@@ -157,6 +157,3 @@ human-following-robot/
 
 ---
 
-## 📄 License
-
-This project is open source — feel free to use, modify, and share it. Consider adding an [MIT License](https://choosealicense.com/licenses/mit/) file if you plan to publish it publicly.
